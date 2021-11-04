@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alejo García (@alejoegarcia)
+- 👀 I’m interested in web dev, software engineering and stock markets
+- 🌱 I’m currently learning React, Redux, Node, Express
+- 📫 How to reach me? Email me! alejoegarcia@gmail.com

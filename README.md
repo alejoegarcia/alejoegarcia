@@ -50,12 +50,12 @@ I'm really great at explaining complex matters in the simplest way so even peopl
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoegarcia)](https://github.com/alejoegarcia/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejoegarcia&layout=compact)](https://github.com/alejoegarcia/github-readme-stats)
 
-## Some projects
+## Some projects 🛠️
 - Do you want to see fully-working code I wrote? Check out my most recent app [here](https://github.com/alejoegarcia/PI-videogames)
 - I'm also currently contributing to the development of [this group project](https://github.com/henry-equipo-ocho/proyecto-grupal)
 
 ## Interests 👀
 I’m interested in web development, software engineering and the stock markets. I like reading sci-fi and philosophy.
 
-## Reach me!
+## Reach me! ✍🏽
 📫 Feel free to email me @ alejoegarcia@gmail.com, see my [LinkedIn profile](https://www.linkedin.com/in/alejoegarcia) or find me on social media as @alejoegarcia

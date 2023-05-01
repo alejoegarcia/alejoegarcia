@@ -3,7 +3,7 @@
 
 ---
 
-> I'm a nineteen-years-old backend-leaning full stack developer 👨🏽‍💻. I got into the programming world almost six years ago and I've been learning and applying that new knowledge ever since. See my [16personalities profile here!](https://www.16personalities.com/profiles/599ea04cab3b5)
+> I'm a twenty-years-old backend-leaning full stack developer 👨🏽‍💻. I got into the programming world almost nine years ago and I've been learning and applying that new knowledge ever since. See my [16personalities profile here!](https://www.16personalities.com/profiles/599ea04cab3b5)
 
 ## Hard Skills 📚
 I’ve exposed myself to a wide variety of languages such as `C++, Java, Python, SQL and JavaScript`. Thus, I can read almost any code I see and _understand what’s happening_. 

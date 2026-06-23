@@ -8,7 +8,7 @@
 > I'm focused on scalability, maintainability and developer experience, with hands-on experience leading cross-functional initiatives, improving operational workflows and contributing to technical leadership through onboarding, mentoring and code reviews.
 
 ## My latest project 🛠️
-Do you like football as much as I do? Check out [footuit]([TBD](https://github.com/alejoegarcia/footui)) - a Rust-based TUI I vibe-coded in a couple of days to browse the FIFA World Cup 2026
+Do you like football as much as I do? Check out [footui](https://github.com/alejoegarcia/footui) - a Rust-based TUI I vibe-coded in a couple of days to browse the FIFA World Cup 2026
 
 Sure, it's messy and lots of things could be improved, but this is my first time building something using Rust! I focused on breadth instead of depth, and the most important thing was to finish before group stage!
 
